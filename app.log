@@ -1,0 +1,7 @@
+2025-06-11 21:40:00,594 [WARNING] Error en la solicitud: 401
+2025-06-11 21:43:25,804 [INFO] <Response [403]>
+2025-06-11 21:43:25,804 [INFO] Error al obtener token: 403
+2025-06-11 21:43:26,860 [ERROR] Token de autenticación no válido o expirado.
+2025-06-11 21:43:27,487 [INFO] <Response [403]>
+2025-06-11 21:43:27,487 [INFO] Error al obtener token: 403
+2025-06-11 21:46:45,103 [INFO] <Response [201]>
