@@ -35,7 +35,7 @@ class SublyBackend:
         return ''
 
     def get_users(self):
-        url = f"{self.api_url}/api/users"
+        url = f"{self.api_url}api/users/all/active-subscription"
         headers = {
             'x-tenant-id': self.tenant,
             'Authorization': f'Bearer {self.jwt}',
